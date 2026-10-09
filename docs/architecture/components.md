@@ -1,7 +1,7 @@
 # UML Component Diagram — API Container
 
 **Scope:** Our API container; the interfaces each component provides and requires; every external service kept behind an adapter interface.
-
+ 
 ```mermaid
 ---
 title: "UML Component Diagram: Next.js API container"
