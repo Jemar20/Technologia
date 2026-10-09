@@ -1,5 +1,5 @@
 # State Machine Diagram — Listing Status
-
+ 
 **Scope:** Our main entity (the object with a status field); initial and final states; states named as conditions; every transition labelled with its event.
 
 ```mermaid
