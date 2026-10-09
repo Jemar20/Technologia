@@ -1,7 +1,7 @@
 # Package Diagram — Folder Structure
 
 **Scope:** The folder structure we will create; dependency arrows; one sentence stating our layering rule.
-
+ 
 ```mermaid
 ---
 title: "Package Diagram: Planned folder structure and dependencies"
