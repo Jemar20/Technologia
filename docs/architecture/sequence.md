@@ -1,5 +1,5 @@
 # Sequence Diagram — Student Views a Listing and Sends an Inquiry
-
+ 
 **Scope:** Our riskiest flow (it is literally our JVB success metric); replies drawn; branches shown with alt; an external system (Facebook Messenger) as a lifeline.
 
 ```mermaid
