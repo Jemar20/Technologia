@@ -1,7 +1,7 @@
 # Class Diagram — Boarding House Listing Verification Domain Model
 
 **Scope:** 4–10 domain classes with typed attributes; multiplicity at both ends of every association; an enumeration for every status field.
-
+ 
 ```mermaid
 ---
 title: "Class Diagram: Domain Model (7 classes + ListingStatus enumeration)"
