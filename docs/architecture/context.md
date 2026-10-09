@@ -1,5 +1,5 @@
 # C4 System Context Diagram — Boarding House Listing Verification
-
+ 
 **Scope:** The whole MVP as one box, every user role, and every external system it depends on.
 
 ```mermaid
