@@ -1,7 +1,7 @@
 # C4 Container Diagram — Boarding House Listing Verification
 
 **Scope:** Every separately deployable unit with its technology; every arrow labelled with intent and protocol.
-
+ 
 ```mermaid
 ---
 title: "C4 Container Diagram: Boarding House Listing Verification"
