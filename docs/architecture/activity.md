@@ -7,7 +7,7 @@
 title: "Activity Diagram: Listing submission and verification"
 ---
 flowchart TB
-
+ 
     subgraph OWNER["OWNER / AGENT"]
         direction TB
         A([Start<br/>Has a room to list])
