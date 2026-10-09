@@ -1,7 +1,7 @@
 # Deployment Diagram — Provisional
 
 **Scope:** Titled "Provisional"; nodes, execution environments, and artifacts; a protocol on every path; no secrets or real addresses.
-
+ 
 ```mermaid
 ---
 title: "Deployment Diagram (Provisional): Planned hosting"
